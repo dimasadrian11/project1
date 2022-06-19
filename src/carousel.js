@@ -27,9 +27,9 @@ export default function Example() {
 <div class="carousel-inner relative w-full overflow-hidden">
   <div class="carousel-item active relative float-left w-full">
     <img
-      src="sld1"
+      src="https://mdbootstrap.com/img/Photos/Slides/img%20(21).jpg"
       class="block w-full"
-      alt="sld1"
+      alt=""
     />
     <div class="carousel-caption hidden md:block absolute text-center">
       <h5 class="text-xl"></h5>
